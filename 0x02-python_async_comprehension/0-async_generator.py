@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
+<<<<<<< HEAD
+'''Task 0's module.
+=======
 '''Async Generator
+>>>>>>> e1bda4bd8d622b937ff88f4c8ef0b43ef7ded73d
 '''
 import asyncio
 import random
